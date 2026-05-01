@@ -1,0 +1,14 @@
+{
+  "name": "dataflow-users",
+  "version": "1.0.0",
+  "description": "CRUD com busca por CPF usando JSON Server e Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "json-server": "json-server --watch db.json --port 3001"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.1"
+  }
+}

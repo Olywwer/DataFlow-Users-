@@ -1,0 +1,36 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Ana",
+      "sobrenome": "Silva",
+      "email": "ana.silva@email.com",
+      "idade": "28",
+      "telefone": "(11) 98888-7777",
+      "endereco": {
+        "rua": "Rua das Flores, 123",
+        "bairro": "Jardim América",
+        "cidade": "São Paulo",
+        "estado": "SP"
+      },
+      "rg": "12.345.678-9",
+      "cpf": "123.456.789-00"
+    },
+    {
+      "id": 2,
+      "nome": "Carlos",
+      "sobrenome": "Santos",
+      "email": "carlos.santos@email.com",
+      "idade": "35",
+      "telefone": "(21) 97777-6666",
+      "endereco": {
+        "rua": "Av. Atlântica, 500",
+        "bairro": "Copacabana",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "rg": "98.765.432-1",
+      "cpf": "987.654.321-00"
+    }
+  ]
+}
